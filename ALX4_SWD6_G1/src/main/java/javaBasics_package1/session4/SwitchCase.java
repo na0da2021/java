@@ -6,20 +6,20 @@ public class SwitchCase {
     public static void main(String[] args) {
 
         // Example 1
-        /**
-        String color = "white";
 
-        switch (color) {
-            case "red" :
-                System.out.println("the color is red");
-                break;
-            case "white" :
-                System.out.println("the color is white");
-                break;
-            default:
-                System.out.println("invalid color");
-        }
-        */
+//        String color = "white";
+//
+//        switch (color) {
+//            case "red" :
+//                System.out.println("the color is red");
+//                break;
+//            case "white" :
+//                System.out.println("the color is white");
+//                break;
+//            default:
+//                System.out.println("invalid color");
+//        }
+
 
         // Example 2
         Scanner input = new Scanner(System.in);
