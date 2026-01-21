@@ -1,5 +1,0 @@
-# **Note:**
-
-This folder contains instructional examples provided by our instructor (Eng Mohamed El-Shafey) to explain specific topics. The content is for learning purposes only and is **not my personal work**.
-
-
